@@ -1,3 +1,12 @@
 <resources>
+
     <string name="app_name">Menu</string>
+
+    <!-- Main layout Strings Start. -->
+    <string name="main_mango">Mango sorbet</string>
+    <string name="main_pie">Blueberry pie</string>
+    <string name="main_chocolate">Chocolate lava cake</string>
+    <string name="main_button">Print menu to logs</string>
+    <!-- Main layout Strings End. -->
+
 </resources>
